@@ -1,0 +1,13 @@
+5 x 5
+Ad V sage
+Aa H eggs
+Ea H map
+
+
+BOARD_PREVIEW:
+ | a| b| c| d| e   
+A| e  g  g  s     
+B|          a     
+C|          g     
+D|          e     
+E| m  a  p        

@@ -1,0 +1,40 @@
+﻿  Board.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.h(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(83,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(125,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(127,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(131,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(191,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(219,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(224,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(265,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(309,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(311,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(355,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(475,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(484,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(493,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(502,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(515,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(524,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(533,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(542,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(564,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(595,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(609,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(618,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(642,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.cpp(649,23): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Board.h(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Source.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Source.cpp(74,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Source.cpp(119): warning C4715: 'verifyInput': not all control paths return a value
+  LINK : C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Debug\Scrabble.exe not found or not built by the last incremental link; performing full link
+  Scrabble.vcxproj -> C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 17-5\Scrabble\Debug\Scrabble.exe

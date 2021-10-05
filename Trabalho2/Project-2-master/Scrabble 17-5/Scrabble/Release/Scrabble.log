@@ -1,0 +1,50 @@
+﻿  Board.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.h(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(51,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(83,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(123,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(127,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(215,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(220,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(297,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(299,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(339,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(459,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(468,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(477,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(486,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(499,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(508,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(517,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(526,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(548,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(579,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(593,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(602,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(626,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.cpp(633,23): warning C4018: '<': signed/unsigned mismatch
+  Person.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Person.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Person.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Person.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Person.cpp(119,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Person.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+  Pool.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Pool.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Board.h(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Source.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Source.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Source.cpp(108): warning C4715: 'verifyInput': not all control paths return a value
+  All 755 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Scrabble.vcxproj -> C:\Users\Joana\Desktop\Project-2-master\15-05-2020\Scrabble 15-5\Scrabble\Release\Scrabble.exe

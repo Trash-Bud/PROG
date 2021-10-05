@@ -1,0 +1,33 @@
+﻿  Source.cpp
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(141,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(173,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(257,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(279,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(293,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(301,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(321,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(328,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(374,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(383,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(385,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(421,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(430,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(432,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(487,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(489,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(588,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(590,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(690,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(748,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(791,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(833,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(778,7): warning C4101: 'let': unreferenced local variable
+C:\Users\Joana\source\repos\Board Builder\Board Builder\board.h(781,7): warning C4101: 'ycha': unreferenced local variable
+  Generating code
+  6 of 600 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Board Builder.vcxproj -> C:\Users\Joana\source\repos\Board Builder\Release\Board Builder.exe

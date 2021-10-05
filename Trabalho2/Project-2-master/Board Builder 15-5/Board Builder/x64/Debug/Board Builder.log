@@ -1,0 +1,5 @@
+﻿  Board.cpp
+C:\Users\Joana\Desktop\Project-2-master\11-05-2020 (2)\Board Builder\Board Builder\Board.h(35,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Joana\Desktop\Project-2-master\11-05-2020 (2)\Board Builder\Board Builder\Board.cpp(692,7): warning C4101: 'let': unreferenced local variable
+C:\Users\Joana\Desktop\Project-2-master\11-05-2020 (2)\Board Builder\Board Builder\Board.cpp(695,7): warning C4101: 'ycha': unreferenced local variable
+  Board Builder.vcxproj -> C:\Users\Joana\Desktop\Project-2-master\11-05-2020 (2)\Board Builder\x64\Debug\Board Builder.exe

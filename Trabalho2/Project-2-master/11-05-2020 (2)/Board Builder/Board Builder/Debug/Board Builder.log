@@ -1,0 +1,30 @@
+﻿  Board.cpp
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(153,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(167,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(195,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(248,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(257,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(259,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(295,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(304,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(306,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(361,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(363,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(462,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(464,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(564,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(622,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(666,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(709,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(652,7): warning C4101: 'let': unreferenced local variable
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Board Builder\Board.cpp(655,7): warning C4101: 'ycha': unreferenced local variable
+  Source.cpp
+  Generating Code...
+  Board Builder.vcxproj -> C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Board Builder\Debug\Board Builder.exe

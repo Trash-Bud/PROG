@@ -1,0 +1,27 @@
+18 x 18
+Cc V english
+Af V apple
+Ae H table
+Da H pencil
+
+
+BOARD_PREVIEW:
+ | a| b| c| d| e| f| g| h| i| j| k| l| m| n| o| p| q| r   
+A|             t  a  b  l  e                             
+B|                p                                      
+C|       e        p                                      
+D| p  e  n  c  i  l                                      
+E|       g        e                                      
+F|       l                                               
+G|       i                                               
+H|       s                                               
+I|       h                                               
+J|                                                       
+K|                                                       
+L|                                                       
+M|                                                       
+N|                                                       
+O|                                                       
+P|                                                       
+Q|                                                       
+R|                                                       

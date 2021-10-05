@@ -1,0 +1,20 @@
+13 x 13
+Aa H cup
+De V aah
+
+
+BOARD PREVIEW:
+ | a| b| c| d| e| f| g| h| i| j| k| l| m   
+A| c  u  p                                
+B|                                        
+C|                                        
+D|             a                          
+E|             a                          
+F|             h                          
+G|                                        
+H|                                        
+I|                                        
+J|                                        
+K|                                        
+L|                                        
+M|                                        

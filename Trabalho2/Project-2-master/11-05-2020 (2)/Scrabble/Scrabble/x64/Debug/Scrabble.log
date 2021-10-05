@@ -1,0 +1,20 @@
+﻿  Board.cpp
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.h(32,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C3511: 'Board::word': a call to a delegating constructor shall be the only member-initializer
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C2664: 'Board::word::word(Board::word &&)': cannot convert argument 1 from 'const std::string' to 'const Board::word &'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : Reason: cannot convert from 'const std::string' to 'const Board::word'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.h(56,2): message : see declaration of 'Board::word::word'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C2437: 'playableLetter': has already been initialized
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C2437: 'orient': has already been initialized
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C2437: 'x': has already been initialized
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): error C2437: 'y': has already been initialized
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.cpp(423,1): message : This diagnostic occurred in the compiler generated function 'Board::word::word(const Board::word &)'
+  Source.cpp
+C:\Users\Utilizador\OneDrive\Ambiente de Trabalho\08-05-2020\Scrabble\Scrabble\Board.h(32,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...

@@ -1,0 +1,23 @@
+15 x 15
+Aa H cup
+Di V love
+Me H carl
+
+
+BOARD PREVIEW:
+ | a| b| c| d| e| f| g| h| i| j| k| l| m| n| o   
+A| c  u  p                                      
+B|                                              
+C|                                              
+D|                         l                    
+E|                         o                    
+F|                         v                    
+G|                         e                    
+H|                                              
+I|                                              
+J|                                              
+K|                                              
+L|                                              
+M|             c  a  r  l                       
+N|                                              
+O|                                              
